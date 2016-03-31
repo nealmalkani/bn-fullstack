@@ -1,0 +1,22 @@
+{
+  "name": "bn-fullstack",
+  "version": "1.0.0",
+  "description": "React Redux Express MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nealmalkani/bn-fullstack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nealmalkani/bn-fullstack/issues"
+  },
+  "homepage": "https://github.com/nealmalkani/bn-fullstack#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
